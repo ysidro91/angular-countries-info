@@ -1,4 +1,4 @@
-# Angular-countries-info
+# Angular countries-info
 
 Simple Angular app to view data usign Angular Material. All data is from RestCountries API [Repo](https://github.com/apilayer/restcountries).
 
